@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4yOFSyoywL2DS7dmQyb+3KzTKBWkuwv5CSzgIdOy8H0=",
+  "Source": "NajmHouseAPI.WebAPI",
+  "BasePath": "_content/NajmHouseAPI.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

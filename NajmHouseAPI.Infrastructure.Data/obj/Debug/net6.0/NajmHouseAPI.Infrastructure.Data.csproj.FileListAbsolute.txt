@@ -1,0 +1,17 @@
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Infrastructure.Data\bin\Debug\net6.0\NajmHouseAPI.Infrastructure.Data.deps.json
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Infrastructure.Data\bin\Debug\net6.0\NajmHouseAPI.Infrastructure.Data.runtimeconfig.json
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Infrastructure.Data\bin\Debug\net6.0\NajmHouseAPI.Infrastructure.Data.dll
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Infrastructure.Data\bin\Debug\net6.0\NajmHouseAPI.Infrastructure.Data.pdb
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Infrastructure.Data\bin\Debug\net6.0\NajmHouseAPI.Domian.dll
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Infrastructure.Data\bin\Debug\net6.0\NajmHouseAPI.Domian.pdb
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Infrastructure.Data\obj\Debug\net6.0\NajmHouseAPI.Infrastructure.Data.csproj.AssemblyReference.cache
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Infrastructure.Data\obj\Debug\net6.0\NajmHouseAPI.Infrastructure.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Infrastructure.Data\obj\Debug\net6.0\NajmHouseAPI.Infrastructure.Data.AssemblyInfoInputs.cache
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Infrastructure.Data\obj\Debug\net6.0\NajmHouseAPI.Infrastructure.Data.AssemblyInfo.cs
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Infrastructure.Data\obj\Debug\net6.0\NajmHouseAPI.Infrastructure.Data.csproj.CoreCompileInputs.cache
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Infrastructure.Data\obj\Debug\net6.0\NajmHouseAPI.Infrastructure.Data.csproj.CopyComplete
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Infrastructure.Data\obj\Debug\net6.0\NajmHouseAPI.Infrastructure.Data.dll
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Infrastructure.Data\obj\Debug\net6.0\refint\NajmHouseAPI.Infrastructure.Data.dll
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Infrastructure.Data\obj\Debug\net6.0\NajmHouseAPI.Infrastructure.Data.pdb
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Infrastructure.Data\obj\Debug\net6.0\NajmHouseAPI.Infrastructure.Data.genruntimeconfig.cache
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Infrastructure.Data\obj\Debug\net6.0\ref\NajmHouseAPI.Infrastructure.Data.dll

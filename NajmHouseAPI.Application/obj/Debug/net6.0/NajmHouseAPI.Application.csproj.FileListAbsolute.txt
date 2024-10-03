@@ -1,0 +1,15 @@
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Application\bin\Debug\net6.0\NajmHouseAPI.Application.deps.json
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Application\bin\Debug\net6.0\NajmHouseAPI.Application.dll
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Application\bin\Debug\net6.0\NajmHouseAPI.Application.pdb
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Application\bin\Debug\net6.0\NajmHouseAPI.Domian.dll
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Application\bin\Debug\net6.0\NajmHouseAPI.Domian.pdb
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Application\obj\Debug\net6.0\NajmHouseAPI.Application.csproj.AssemblyReference.cache
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Application\obj\Debug\net6.0\NajmHouseAPI.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Application\obj\Debug\net6.0\NajmHouseAPI.Application.AssemblyInfoInputs.cache
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Application\obj\Debug\net6.0\NajmHouseAPI.Application.AssemblyInfo.cs
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Application\obj\Debug\net6.0\NajmHouseAPI.Application.csproj.CoreCompileInputs.cache
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Application\obj\Debug\net6.0\NajmHouseAPI.Application.csproj.CopyComplete
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Application\obj\Debug\net6.0\NajmHouseAPI.Application.dll
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Application\obj\Debug\net6.0\refint\NajmHouseAPI.Application.dll
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Application\obj\Debug\net6.0\NajmHouseAPI.Application.pdb
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Application\obj\Debug\net6.0\ref\NajmHouseAPI.Application.dll

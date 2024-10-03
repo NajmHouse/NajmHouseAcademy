@@ -1,0 +1,11 @@
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Domian\bin\Debug\net6.0\NajmHouseAPI.Domian.deps.json
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Domian\bin\Debug\net6.0\NajmHouseAPI.Domian.dll
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Domian\bin\Debug\net6.0\NajmHouseAPI.Domian.pdb
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Domian\obj\Debug\net6.0\NajmHouseAPI.Domian.GeneratedMSBuildEditorConfig.editorconfig
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Domian\obj\Debug\net6.0\NajmHouseAPI.Domian.AssemblyInfoInputs.cache
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Domian\obj\Debug\net6.0\NajmHouseAPI.Domian.AssemblyInfo.cs
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Domian\obj\Debug\net6.0\NajmHouseAPI.Domian.csproj.CoreCompileInputs.cache
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Domian\obj\Debug\net6.0\NajmHouseAPI.Domian.dll
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Domian\obj\Debug\net6.0\refint\NajmHouseAPI.Domian.dll
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Domian\obj\Debug\net6.0\NajmHouseAPI.Domian.pdb
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Domian\obj\Debug\net6.0\ref\NajmHouseAPI.Domian.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NajmHouseAPI.Domian/1.0.0": {
+        "runtime": {
+          "NajmHouseAPI.Domian.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NajmHouseAPI.Domian/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

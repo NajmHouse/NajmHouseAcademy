@@ -1,0 +1,265 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\NajmHouse-Backend\\NajmHouse\\NajmHouseAPI.Infrastructure.IoC\\NajmHouseAPI.Infrastructure.IoC.csproj": {}
+  },
+  "projects": {
+    "C:\\NajmHouse-Backend\\NajmHouse\\NajmHouseAPI.Application\\NajmHouseAPI.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\NajmHouse-Backend\\NajmHouse\\NajmHouseAPI.Application\\NajmHouseAPI.Application.csproj",
+        "projectName": "NajmHouseAPI.Application",
+        "projectPath": "C:\\NajmHouse-Backend\\NajmHouse\\NajmHouseAPI.Application\\NajmHouseAPI.Application.csproj",
+        "packagesPath": "C:\\Users\\Sharique Punk\\.nuget\\packages\\",
+        "outputPath": "C:\\NajmHouse-Backend\\NajmHouse\\NajmHouseAPI.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sharique Punk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\NajmHouse-Backend\\NajmHouse\\NajmHouseAPI.Domian\\NajmHouseAPI.Domian.csproj": {
+                "projectPath": "C:\\NajmHouse-Backend\\NajmHouse\\NajmHouseAPI.Domian\\NajmHouseAPI.Domian.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\NajmHouse-Backend\\NajmHouse\\NajmHouseAPI.Domian\\NajmHouseAPI.Domian.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\NajmHouse-Backend\\NajmHouse\\NajmHouseAPI.Domian\\NajmHouseAPI.Domian.csproj",
+        "projectName": "NajmHouseAPI.Domian",
+        "projectPath": "C:\\NajmHouse-Backend\\NajmHouse\\NajmHouseAPI.Domian\\NajmHouseAPI.Domian.csproj",
+        "packagesPath": "C:\\Users\\Sharique Punk\\.nuget\\packages\\",
+        "outputPath": "C:\\NajmHouse-Backend\\NajmHouse\\NajmHouseAPI.Domian\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sharique Punk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\NajmHouse-Backend\\NajmHouse\\NajmHouseAPI.Infrastructure.Data\\NajmHouseAPI.Infrastructure.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\NajmHouse-Backend\\NajmHouse\\NajmHouseAPI.Infrastructure.Data\\NajmHouseAPI.Infrastructure.Data.csproj",
+        "projectName": "NajmHouseAPI.Infrastructure.Data",
+        "projectPath": "C:\\NajmHouse-Backend\\NajmHouse\\NajmHouseAPI.Infrastructure.Data\\NajmHouseAPI.Infrastructure.Data.csproj",
+        "packagesPath": "C:\\Users\\Sharique Punk\\.nuget\\packages\\",
+        "outputPath": "C:\\NajmHouse-Backend\\NajmHouse\\NajmHouseAPI.Infrastructure.Data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sharique Punk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\NajmHouse-Backend\\NajmHouse\\NajmHouseAPI.Domian\\NajmHouseAPI.Domian.csproj": {
+                "projectPath": "C:\\NajmHouse-Backend\\NajmHouse\\NajmHouseAPI.Domian\\NajmHouseAPI.Domian.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\NajmHouse-Backend\\NajmHouse\\NajmHouseAPI.Infrastructure.IoC\\NajmHouseAPI.Infrastructure.IoC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\NajmHouse-Backend\\NajmHouse\\NajmHouseAPI.Infrastructure.IoC\\NajmHouseAPI.Infrastructure.IoC.csproj",
+        "projectName": "NajmHouseAPI.Infrastructure.IoC",
+        "projectPath": "C:\\NajmHouse-Backend\\NajmHouse\\NajmHouseAPI.Infrastructure.IoC\\NajmHouseAPI.Infrastructure.IoC.csproj",
+        "packagesPath": "C:\\Users\\Sharique Punk\\.nuget\\packages\\",
+        "outputPath": "C:\\NajmHouse-Backend\\NajmHouse\\NajmHouseAPI.Infrastructure.IoC\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Sharique Punk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\NajmHouse-Backend\\NajmHouse\\NajmHouseAPI.Application\\NajmHouseAPI.Application.csproj": {
+                "projectPath": "C:\\NajmHouse-Backend\\NajmHouse\\NajmHouseAPI.Application\\NajmHouseAPI.Application.csproj"
+              },
+              "C:\\NajmHouse-Backend\\NajmHouse\\NajmHouseAPI.Infrastructure.Data\\NajmHouseAPI.Infrastructure.Data.csproj": {
+                "projectPath": "C:\\NajmHouse-Backend\\NajmHouse\\NajmHouseAPI.Infrastructure.Data\\NajmHouseAPI.Infrastructure.Data.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

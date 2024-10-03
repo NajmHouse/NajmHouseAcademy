@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "NajmHouseAPI.Application/1.0.0": {
+        "dependencies": {
+          "NajmHouseAPI.Domian": "1.0.0"
+        },
+        "runtime": {
+          "NajmHouseAPI.Application.dll": {}
+        }
+      },
+      "NajmHouseAPI.Domian/1.0.0": {
+        "runtime": {
+          "NajmHouseAPI.Domian.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "NajmHouseAPI.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NajmHouseAPI.Domian/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
