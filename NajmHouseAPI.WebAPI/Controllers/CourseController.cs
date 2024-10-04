@@ -15,7 +15,7 @@ namespace NajmHouseAPI.WebAPI.Controllers
             _services = services;
         }
 
-        [HttpGet ("getallcourse")]
+        [HttpGet ("getcourses")]
         public IActionResult  GetAllCourse() 
         {
             try
