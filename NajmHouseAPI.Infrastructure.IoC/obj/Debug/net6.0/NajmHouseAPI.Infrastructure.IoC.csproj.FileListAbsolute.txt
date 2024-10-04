@@ -12,6 +12,7 @@ C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Infrastructure.IoC\obj\Debug\net6.0\
 C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Infrastructure.IoC\obj\Debug\net6.0\NajmHouseAPI.Infrastructure.IoC.AssemblyInfoInputs.cache
 C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Infrastructure.IoC\obj\Debug\net6.0\NajmHouseAPI.Infrastructure.IoC.AssemblyInfo.cs
 C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Infrastructure.IoC\obj\Debug\net6.0\NajmHouseAPI.Infrastructure.IoC.csproj.CoreCompileInputs.cache
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Infrastructure.IoC\obj\Debug\net6.0\NajmHouseAPI.Infrastructure.IoC.sourcelink.json
 C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Infrastructure.IoC\obj\Debug\net6.0\NajmHouseAPI.Infrastructure.IoC.csproj.CopyComplete
 C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Infrastructure.IoC\obj\Debug\net6.0\NajmHouseAPI.Infrastructure.IoC.dll
 C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Infrastructure.IoC\obj\Debug\net6.0\refint\NajmHouseAPI.Infrastructure.IoC.dll

@@ -57,6 +57,7 @@ C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.WebAPI\obj\Debug\net6.0\NajmHouseAPI
 C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.WebAPI\obj\Debug\net6.0\NajmHouseAPI.WebAPI.csproj.CoreCompileInputs.cache
 C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.WebAPI\obj\Debug\net6.0\NajmHouseAPI.WebAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.WebAPI\obj\Debug\net6.0\NajmHouseAPI.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.WebAPI\obj\Debug\net6.0\NajmHouseAPI.WebAPI.sourcelink.json
 C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.WebAPI\obj\Debug\net6.0\staticwebassets.build.json
 C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.WebAPI\obj\Debug\net6.0\staticwebassets.development.json
 C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.NajmHouseAPI.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props

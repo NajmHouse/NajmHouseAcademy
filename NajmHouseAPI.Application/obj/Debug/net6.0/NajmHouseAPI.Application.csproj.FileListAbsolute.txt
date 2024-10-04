@@ -8,6 +8,7 @@ C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Application\obj\Debug\net6.0\NajmHou
 C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Application\obj\Debug\net6.0\NajmHouseAPI.Application.AssemblyInfoInputs.cache
 C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Application\obj\Debug\net6.0\NajmHouseAPI.Application.AssemblyInfo.cs
 C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Application\obj\Debug\net6.0\NajmHouseAPI.Application.csproj.CoreCompileInputs.cache
+C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Application\obj\Debug\net6.0\NajmHouseAPI.Application.sourcelink.json
 C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Application\obj\Debug\net6.0\NajmHouseAPI.Application.csproj.CopyComplete
 C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Application\obj\Debug\net6.0\NajmHouseAPI.Application.dll
 C:\NajmHouse-Backend\NajmHouse\NajmHouseAPI.Application\obj\Debug\net6.0\refint\NajmHouseAPI.Application.dll
